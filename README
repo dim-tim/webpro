@@ -1,0 +1,12 @@
+This is a skeleton project for a Java webapp.
+
+It includes:
+- Ant & Ivy for dependency management
+- Jersey for handling of http requests in a RESTful way
+- Spring for dependency injection in the code
+- H2 database (Windows users may need to edit jetty-web.xml)
+- Liquibase for DB migration
+- Hibernate for working with the DB
+- JUnit & Mockito for unit testing
+
+After cloning, run src/Launcher.java to start. Everything is preconfigured.
