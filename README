@@ -9,4 +9,8 @@ It includes:
 - Hibernate for working with the DB
 - JUnit & Mockito for unit testing
 
-After cloning, run src/Launcher.java to start. Everything is preconfigured.
+After cloning, do:
+1) run command in a terminal: ant
+2) add config/log4j.xml to classpath (set /config as resource-folder in IDE)
+3) set /test as test-folder in IDE
+4) run src/Launcher.java to start. Everything is preconfigured.
